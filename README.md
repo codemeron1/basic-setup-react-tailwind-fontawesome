@@ -1,1 +1,3 @@
-#Basic Setup of React and Tailwind CSS
+# Basic Setup of React, Tailwind CSS, and Fontawesome
+1. Run 
+  > npm install
